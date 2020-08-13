@@ -54,6 +54,9 @@
 
 ---
 
+<details>
+<summary align="center"> <b> <samp> see more </samp></b></summary>
+  
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -78,6 +81,8 @@
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=estebmaister&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://teban.co.ve
 [twitter]: https://twitter.com/estebmaister
