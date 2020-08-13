@@ -1,6 +1,8 @@
 ### Hi, and welcome to mi profile, I'm Esteban - aka [Estebmaister][website] 👋
 
-## I'm a Developer, Adventure Guide, and Chemical Engineer!
+## I'm a Developer, Firefighter, Adventure Guide, and Chemical Engineer!
+
+<img width="35%" align="right" alt="Github" src="/assets/octodex.png" />
 
 - 🔭 I’m currently working on [Avantica](https://www.avantica.com)!
 - 🌱 I’m constantly learning new technologies.
@@ -55,6 +57,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Snorkel Despedida de Majo @Wissib](https://www.youtube.com/watch?v=UmKH3pyN2iA)
 - [Salto de lancha en Chichiriviche Venezuela](https://www.youtube.com/watch?v=bSSPWMuriZs)
 - [Playazo LA 2014 - Arenita Playita Cuarto Poder](https://www.youtube.com/watch?v=zBVHve-Ja20)
@@ -65,6 +68,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Example title for github](https://estebmaister.wordpress.com/2020/08/13/example-title-for-github/)
 - [Example post for esteb](https://estebmaister.wordpress.com/2020/07/08/example-post-for-esteb/)
 - [Hello world!](https://estebmaister.wordpress.com/2020/06/24/hello-world/)
