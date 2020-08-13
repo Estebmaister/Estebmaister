@@ -2,10 +2,10 @@
 
 ## I'm a Developer, Adventure Guide, and Chemical Engineer!
 
-- 🔭 I’m currently working on [Avantica][website]!
+- 🔭 I’m currently working on [Avantica](https://www.avantica.com)!
 - 🌱 I’m constantly learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Create an application for CAH Caracas xD.
+- 🥅 2020 Goals: Create an application for CAH Caracas. 😂
 - ⚡ Fun fact: I love to climb and hike around the world.
 
 ### Connect with me:
