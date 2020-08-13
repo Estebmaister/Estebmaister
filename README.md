@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Firefighter, Adventure Guide, and Chemical Engineer!
 
-<img width="35%" align="right" alt="Octocat" src="https://github.com/Estebmaister/Estebmaister/blob/master/assets/octodex.png?raw=true" />
+<img width="35%" align="right" style="margin-right:5%" alt="Octocat" src="https://github.com/Estebmaister/Estebmaister/blob/master/assets/octodex.png?raw=true" />
 
 - 🔭 I’m currently working on [Avantica](https://www.avantica.com)!
 - 🌱 I’m constantly learning new technologies.
