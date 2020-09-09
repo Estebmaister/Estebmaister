@@ -1,4 +1,4 @@
-### Hi, and welcome to mi profile, I'm Esteban - aka [Estebmaister][website] 👋
+### Hi, and welcome to my profile, I'm Esteban - aka [Estebmaister][website] 👋
 
 ## I'm a Developer, Firefighter, Adventure Guide, and Chemical Engineer!
 
