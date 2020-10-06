@@ -72,7 +72,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Example title for github](https://estebmaister.wordpress.com/2020/08/13/example-title-for-github/)
 - [Example post for esteb](https://estebmaister.wordpress.com/2020/07/08/example-post-for-esteb/)
 - [Hello world!](https://estebmaister.wordpress.com/2020/06/24/hello-world/)
