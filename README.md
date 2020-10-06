@@ -82,7 +82,7 @@
 
 </details>
 
-[website]: https://teban.co.ve
+[website]: https://estebmaister.github.io/portfolio/
 [twitter]: https://twitter.com/estebmaister
 [youtube]: https://youtube.com/estebmaister
 [instagram]: https://instagram.com/estebmaister
