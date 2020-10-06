@@ -4,11 +4,12 @@
 
 <img width="35%" align="right" style="margin-right:5%" alt="Octocat" src="https://github.com/Estebmaister/Estebmaister/blob/master/assets/octodex.png?raw=true" />
 
-- 🔭 I’m currently working on [Avantica](https://www.avantica.com)!
+- 🔭 I’m currently working on [Avantica](https://www.avantica.com) as full-stack developer!
 - 🌱 I’m constantly learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Create an application for CAH Caracas. 😂
 - ⚡ Fun fact: I love to climb and hike around the world.
+- 🌍 Currently living in Colombia.
 
 ### Connect with me:
 
