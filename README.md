@@ -56,7 +56,7 @@
 
 <details>
 <summary align="center"> <b> <samp> see more </samp></b></summary>
-  
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
