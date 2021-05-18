@@ -4,10 +4,11 @@
 
 <img width="35%" align="right" style="margin-right:5%" alt="Octocat" src="https://github.com/Estebmaister/Estebmaister/blob/master/assets/octodex.png?raw=true" />
 
-- 🔭 I’m currently working on [Avantica](https://www.avantica.com) as full-stack developer!
+- 🔭 I’m currently working on [Avantica](https://www.avantica.com) as full-stack
+  developer!
 - 🌱 I’m constantly learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 & 2022 Goals: 
+- 🥅 2021 & 2022 Goals:
   - Create a simulator for fired heaters. 🔥
   - Create an application for CAH Caracas. 😂
 - ⚡ Fun fact: I love to climb and hike around the world.
@@ -63,6 +64,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Snorkel Despedida de Majo @Wissib](https://www.youtube.com/watch?v=UmKH3pyN2iA)
 - [Salto de lancha en Chichiriviche Venezuela](https://www.youtube.com/watch?v=bSSPWMuriZs)
 - [Playazo LA 2014 - Arenita Playita Cuarto Poder](https://www.youtube.com/watch?v=zBVHve-Ja20)
@@ -73,6 +75,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Example title for github](https://estebmaister.wordpress.com/2020/08/13/example-title-for-github/)
 - [Novelas Asiáticas](https://estebmaister.wordpress.com/2020/07/08/novelas-asia/)
 - [Hello world!](https://estebmaister.wordpress.com/2020/06/24/hello-world/)
