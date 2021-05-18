@@ -7,7 +7,9 @@
 - 🔭 I’m currently working on [Avantica](https://www.avantica.com) as full-stack developer!
 - 🌱 I’m constantly learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Create an application for CAH Caracas. 😂
+- 🥅 2021 & 2022 Goals: 
+  - Create a simulator for fired heaters. 🔥
+  - Create an application for CAH Caracas. 😂
 - ⚡ Fun fact: I love to climb and hike around the world.
 - 🌍 Currently living in Colombia.
 
