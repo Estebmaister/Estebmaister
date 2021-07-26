@@ -64,6 +64,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [First Tandem - Skydiving](https://www.youtube.com/watch?v=jMIhopbBUn0)
 - [Snorkel Despedida de Majo @Wissib](https://www.youtube.com/watch?v=UmKH3pyN2iA)
 - [Salto de lancha en Chichiriviche Venezuela](https://www.youtube.com/watch?v=bSSPWMuriZs)
 - [Playazo LA 2014 - Arenita Playita Cuarto Poder](https://www.youtube.com/watch?v=zBVHve-Ja20)
