@@ -64,6 +64,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Skydiving final jump of AFF](https://www.youtube.com/watch?v=34qnhMN5e_o)
 - [First Tandem - Skydiving](https://www.youtube.com/watch?v=jMIhopbBUn0)
 - [Snorkel Despedida de Majo @Wissib](https://www.youtube.com/watch?v=UmKH3pyN2iA)
 - [Salto de lancha en Chichiriviche Venezuela](https://www.youtube.com/watch?v=bSSPWMuriZs)
