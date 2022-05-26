@@ -64,6 +64,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Skydiving final jump of AFF](https://www.youtube.com/watch?v=34qnhMN5e_o)
 - [First Tandem - Skydiving](https://www.youtube.com/watch?v=jMIhopbBUn0)
 - [Snorkel Despedida de Majo @Wissib](https://www.youtube.com/watch?v=UmKH3pyN2iA)
@@ -76,6 +77,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Example title for github](https://estebmaister.wordpress.com/2020/08/13/example-title-for-github/)
 - [Novelas Asiáticas](https://estebmaister.wordpress.com/2020/07/08/novelas-asia/)
 - [Hello world!](https://estebmaister.wordpress.com/2020/06/24/hello-world/)
