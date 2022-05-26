@@ -4,7 +4,7 @@
 
 <img width="35%" align="right" style="margin-right:5%" alt="Octocat" src="https://github.com/Estebmaister/Estebmaister/blob/master/assets/octodex.png?raw=true" />
 
-- 🔭 I’m currently working on [Avantica](https://www.avantica.com) as full-stack
+- 🔭 I’m currently working on [Encora](https://www.encora.com) as full-stack
   developer!
 - 🌱 I’m constantly learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
@@ -89,7 +89,7 @@
 </details>
 
 [website]: https://estebmaister.github.io/portfolio/
-[twitter]: https://twitter.com/estebmaister
+[twitter]: https://twitter.com/esteb_zen
 [youtube]: https://youtube.com/estebmaister
-[instagram]: https://instagram.com/estebmaister
+[instagram]: https://instagram.com/esteb.zen
 [linkedin]: https://linkedin.com/in/estebmaister
