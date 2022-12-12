@@ -4,7 +4,7 @@
 
 <img width="35%" align="right" style="margin-right:5%" alt="Octocat" src="https://github.com/Estebmaister/Estebmaister/blob/master/assets/octodex.png?raw=true" />
 
-- 🔭 I’m currently working on [Encora](https://www.encora.com) as a full-stack
+- 🔭 I’m currently working at [Encora](https://www.encora.com) as a full-stack
   developer!
 - 🌱 I’m constantly learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
