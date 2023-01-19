@@ -4,13 +4,12 @@
 
 <img width="35%" align="right" style="margin-right:5%" alt="Octocat" src="https://github.com/Estebmaister/Estebmaister/blob/master/assets/octodex.png?raw=true" />
 
-- 🔭 I’m currently working on [Encora](https://www.encora.com) as full-stack
+- 🔭 I’m currently working at [Encora](https://www.encora.com) as a full-stack
   developer!
 - 🌱 I’m constantly learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals:
-  - Create a simulator for fired heaters. 🔥
-  - Create an application for CAH Caracas. 😂
+- 🥅 2023 Goals:
+  - Create a web scrapper to visualize web updates from several sources. 🔥
 - ⚡ Fun fact: I love to climb and hike around the world.
 - 🌍 Currently living in Colombia.
 
