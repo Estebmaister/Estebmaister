@@ -6,7 +6,7 @@
 
 - 🌱 I’m constantly learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2024 Goals:
+- 🥅 2026 Goals:
   - Create a web scrapper to visualize web updates from several sources. 🔥
 - ⚡ Fun fact: I love to climb and hike around the world.
 - 🌍 Currently living in Colombia.
