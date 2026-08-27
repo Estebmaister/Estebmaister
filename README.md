@@ -3,7 +3,7 @@
 ## I'm a Developer, Firefighter, Adventure Guide, and Chemical Engineer!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Camargo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/estebmaister)
-[![GitHub](https://img.shields.io/badge/GitHub-EstebanCamargo-black?style=flat&logo=github)](https://github.com/Estebmaister)
+[![GitHub](https://img.shields.io/badge/GitHub-Estebmaister-black?style=flat&logo=github)](https://github.com/Estebmaister)
 
 <img width="35%" align="right" style="margin-right:5%" alt="Octocat" src="https://github.com/Estebmaister/Estebmaister/blob/master/assets/octodex.png?raw=true" />
 
@@ -25,6 +25,12 @@
 <br />
 
 ### Languages and Tools:
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]()
