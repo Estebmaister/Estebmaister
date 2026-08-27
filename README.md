@@ -2,6 +2,9 @@
 
 ## I'm a Developer, Firefighter, Adventure Guide, and Chemical Engineer!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Camargo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/estebmaister)
+[![GitHub](https://img.shields.io/badge/GitHub-EstebanCamargo-black?style=flat&logo=github)](https://github.com/Estebmaister)
+
 <img width="35%" align="right" style="margin-right:5%" alt="Octocat" src="https://github.com/Estebmaister/Estebmaister/blob/master/assets/octodex.png?raw=true" />
 
 - 🌱 I’m constantly learning new technologies.
